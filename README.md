@@ -17,6 +17,6 @@ Collect appstore ratings from url
 * in 'links.txt', please put list of urls (app rating page. See example txt file), e.g:https://apps.apple.com/us/app/apple-store/id375380948#see-all/reviews 
 
 ```
-python collect.py
+>>python collect.py
 ```
 or you can also use ipynb
