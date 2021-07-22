@@ -8,6 +8,7 @@ Collect appstore ratings from url
 
 
 ```
+pipenv --three
 pip install -r requrements.txt
 ```
 
