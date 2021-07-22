@@ -1,4 +1,4 @@
-# Appstore_rating_collection
+# Appstore rating / comment collection
 Collect appstore ratings from url
 
 **Important: you must use the URL of each rating page, not the main page of the app :e.g:https://apps.apple.com/us/app/apple-store/id375380948#see-all/reviews**
