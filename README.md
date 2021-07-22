@@ -1,4 +1,4 @@
-# Appstore rating / comment collection
+# Appstore rating / review collection
 Collect appstore ratings from url
 
 **Important: you must use the URL of each rating page, not the main page of the app :e.g:https://apps.apple.com/us/app/apple-store/id375380948#see-all/reviews**
@@ -8,7 +8,7 @@ Collect appstore ratings from url
 # Usage
 * Please update your chrome webdriver with your chrome version: https://chromedriver.chromium.org/downloads
 * Suggest using pipenv or conda virtual environment
-* Default is set as 100 seconds. You can change the duration of data collection as you want
+* Default duration for scrolling (to load more reviews) is set as 100 seconds. You can change the duration of data collection as you want
 
 
 ```
