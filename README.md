@@ -9,7 +9,8 @@ Collect appstore ratings from url
 
 ```
 pipenv --three
-pip install -r requrements.txt
+pipenv shell
+pip install -r requirements.txt
 ```
 
 * in 'links.txt', please put list of urls (app rating page. See example txt file), e.g:https://apps.apple.com/us/app/apple-store/id375380948#see-all/reviews 
