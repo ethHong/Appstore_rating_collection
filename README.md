@@ -1,5 +1,7 @@
 # Appstore_rating_collection
 Collect appstore ratings from url
+**Important: you must use the URL of each rating page, not the main page of the app :e.g:https://apps.apple.com/us/app/apple-store/id375380948#see-all/reviews**
+**Also, recommend not utilizing the data other than academic or personal research purpose, which can possibly infringe any rights of other service provider**
 
 # Usage
 * Please update your chrome webdriver with your chrome version: https://chromedriver.chromium.org/downloads
