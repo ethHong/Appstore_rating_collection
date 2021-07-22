@@ -4,7 +4,7 @@ Collect appstore ratings from url
 # Usage
 * Please update your chrome webdriver with your chrome version: https://chromedriver.chromium.org/downloads
 * Suggest using pipenv or conda virtual environment
-* You can change the duration of data collection as you want
+* Default is set as 100 secondsYou can change the duration of data collection as you want
 
 
 ```
