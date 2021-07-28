@@ -7,7 +7,6 @@ Collect appstore ratings from url
 
 # Usage
 * Please update your chrome webdriver with your chrome version: https://chromedriver.chromium.org/downloads
-* Suggest using pipenv or conda virtual environment
 * Default duration for scrolling (to load more reviews) is set as 100 seconds. You can change the duration of data collection as you want
 
 
