@@ -13,8 +13,6 @@ Collect appstore ratings from url
 
 ```
 >>cd "route directory"
->>pipenv --three
->>pipenv shell
 >>pip install -r requirements.txt
 ```
 
